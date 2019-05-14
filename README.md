@@ -14,5 +14,5 @@ An LED matrix is attached to the other hand to indicate the direction that the c
 
 <img src="https://i.imgur.com/LRoTWQF.jpg" width="250"> <img src="https://i.imgur.com/bUQW2AY.jpg" width="250">
 
-## Autonomous mode demonstration
+## Demonstration
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lxt1E65UH2w/0.jpg)](https://youtu.be/lxt1E65UH2w)
